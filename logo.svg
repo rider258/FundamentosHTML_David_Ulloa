@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="640.0000000000001" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient y1="0.023438" x1="0.514343" y2="0.96875" x2="0.506531" id="svg_22">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#d60c0c"/>
+   <stop offset="0.990906" stop-opacity="0.996094" stop-color="#bf0000"/>
+  </linearGradient>
+  <linearGradient y2="0.988281" x2="0.510437" y1="0.015625" x1="0.432312" spreadMethod="pad" id="svg_23">
+   <stop offset="0" stop-color="#1230a8"/>
+   <stop offset="0.979187" stop-opacity="0.996094" stop-color="#00007f"/>
+  </linearGradient>
+  <linearGradient y1="0" x1="0.865906" y2="1" x2="0.037781" id="svg_24">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="0.998718" stop-opacity="0.996094" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_1" r="114.85643" cy="249" cx="264" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#090977"/>
+  <circle id="svg_2" r="103.35376" cy="249" cx="264" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="url(#svg_23)"/>
+  <path id="svg_10" d="m-101.536302,190.666881l0.413384,0m-0.205748,0.177434l0.201973,0.198198m-0.201973,-0.200085l-0.18876,0.200085m0.187816,-0.436035l0,0.23595m0.062748,-0.299671c0,0.034655 -0.028093,0.062748 -0.062748,0.062748c-0.034655,0 -0.062748,-0.028093 -0.062748,-0.062748c0,-0.034655 0.028093,-0.062748 0.062748,-0.062748c0.034655,0 0.062748,0.028093 0.062748,0.062748z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+  <path id="svg_21" d="m222.49828,154.37361c62.7844,8.28712 73.5588,42.6435 71.7922,94.02875c-1.84571,36.73169 -0.19336,60.33528 12.25964,73.98634c13.43065,10.61058 32.20183,7.12301 50.6294,-28.64466c17.45427,-38.31221 8.86789,-72.80572 -1.25285,-92.41741c-10.51355,-17.64628 -22.1809,-33.27841 -48.25677,-46.02489c-16.0809,-7.25035 -31.89966,-10.21719 -47.26454,-9.64916c-7.68244,0.28402 -14.43673,1.41265 -21.22187,2.95822c-6.69605,1.74157 -8.05976,2.26084 -16.68521,5.76281z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="url(#svg_22)"/>
+  <text font-weight="bold" opacity="0.75" transform="matrix(4.082399234425921,0,0,4.082399234425921,-499.25211581745293,-644.4276266702847) " xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_25" y="225.248478" x="184.901864" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">DU</text>
+  <ellipse transform="rotate(11.003327369689941 272.46771240234415,207.12783813476565) " opacity="0.25" ry="59.593676" rx="84.93035" id="svg_4" cy="207.127833" cx="272.4677" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="url(#svg_24)"/>
+  <path id="svg_26" d="m311.042837,301.614392c-6.677313,-4.702582 -32.318251,-7.037266 -82.860043,-7.544585l-34.176541,-0.343048l0,-4.115816l0,-4.115777l25.796289,0c30.410748,0 52.155542,-0.845001 69.898016,-2.716276c10.470253,-1.104261 13.949601,-1.808431 18.68235,-3.780971l5.815827,-2.423996l16.681389,6.726685l16.681384,6.726722l-16.868142,6.773272l-16.868189,6.77331l-2.782344,-1.959521l0.000005,0z" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+ </g>
+</svg>
